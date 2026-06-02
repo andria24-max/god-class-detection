@@ -1,0 +1,10 @@
+https://github.com/aimeos/aimeos-core.git
+https://github.com/akaunting/akaunting.git
+https://github.com/backup-manager/backup-manager.git
+https://github.com/bagisto/bagisto.git
+https://github.com/Tencent/Biny.git
+https://github.com/broadway/broadway.git
+https://github.com/cakephp/cakephp.git
+https://github.com/thephpleague/climate.git
+https://github.com/statamic/cms.git
+https://github.com/bcit-ci/CodeIgniter.git
