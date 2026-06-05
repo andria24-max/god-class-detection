@@ -1,0 +1,6 @@
+Project,Class,WMC,LCOM,CBO,RFC,DIT,NOC,TCC,NOM,LOC,ATFD,NOA,PHPMD_Flag,Expert_Hits,Label,LabelSource,RF_pred,RF_FP,RF_FN,ErrorType
+server,OCA\User_LDAP\LDAPProvider,47,2,9,56,0,0,0.3333,20,287,0,0,0,1,0,Neither,1,1,0,FP
+symfony,Symfony\Component\Form\Command\DebugCommand,46,2,13,59,1,0,0.3333,11,203,0,0,0,1,0,Neither,1,1,0,FP
+Payum,Payum\Paypal\ExpressCheckout\Nvp\Api,31,1,8,39,0,0,0.5,20,473,0,0,0,1,0,Neither,1,1,0,FP
+silverstripe-framework,SilverStripe\Dev\DebugView,46,9,12,58,0,1,0.1,13,256,0,0,0,1,0,Neither,1,1,0,FP
+twilio-php,Twilio\TwiML\Voice\Pay,21,3,4,25,1,0,0.25,21,202,0,0,0,2,1,expert-overridden,0,0,1,FN

@@ -1,0 +1,10 @@
+Feature,U_stat,p_value,significant_raw,significant_bonferroni,rank_biserial_r,cliffs_delta,effect_magnitude
+WMC,55048767.0,0.0,True,True,-0.8157,0.8157,large
+LCOM,41024151.5,1.8339443483088932e-211,True,True,-0.3531,0.3531,medium
+CBO,54958162.5,0.0,True,True,-0.8127,0.8127,large
+RFC,59200224.5,0.0,True,True,-0.9527,0.9527,large
+DIT,27591463.0,3.207387147809632e-18,True,True,0.0899,-0.0899,negligible
+NOC,34515732.5,3.31980400638692e-182,True,True,-0.1385,0.1385,negligible
+TCC,19611566.5,1.8339443483088932e-211,True,True,0.3531,-0.3531,medium
+NOM,54154468.0,0.0,True,True,-0.7862,0.7862,large
+LOC,55234033.0,0.0,True,True,-0.8218,0.8218,large
